@@ -1,0 +1,97 @@
+[
+  {
+    "id": "0001",
+    "name": "妙蛙种子",
+    "type1": "GRASS",
+    "type2": "POISON",
+    "description": "四足宝可梦，外表类似蛤蟆。背上种子从出生起就与身体一同成长，能够吸收阳光培育能量。"
+  },
+  {
+    "id": "0007",
+    "name": "杰尼龟",
+    "type1": "WATER",
+    "type2": "NULL",
+    "description": "小龟宝可梦。甲壳不仅用于保护身体，还能减少水的阻力，让它高速游泳。遇到危险时会缩进壳中。"
+  },
+  {
+    "id": "0012",
+    "name": "巴大蝶",
+    "type1": "BUG",
+    "type2": "FLYING",
+    "description": "翅膀上覆盖着细小鳞粉。鳞粉具有毒性，可用于驱赶天敌。擅长在花丛间飞舞。"
+  },
+  {
+    "id": "0010",
+    "name": "绿毛虫",
+    "type1": "BUG",
+    "type2": "NULL",
+    "description": "虫宝宝宝可梦。食欲旺盛，每天会吃掉大量树叶。头上的触角能释放强烈气味驱赶敌人。"
+  },
+  {
+    "id": "0025",
+    "name": "皮卡丘",
+    "type1": "ELECTRIC",
+    "type2": "NULL",
+    "description": "鼠宝可梦。脸颊上的电气袋能够储存电力。受到惊吓或生气时会释放强烈电流。"
+  },
+  {
+    "id": "0006",
+    "name": "喷火龙",
+    "type1": "FIRE",
+    "type2": "FLYING",
+    "description": "火焰宝可梦。能喷出足以融化岩石的高温火焰。只有遇到强敌才会全力战斗。"
+  },
+  {
+    "id": "0149",
+    "name": "快龙",
+    "type1": "DRAGON",
+    "type2": "FLYING",
+    "description": "龙宝可梦。性格温和善良。能以极快速度飞行，据说绕地球一圈只需16小时。"
+  },
+  {
+    "id": "0174",
+    "name": "波克比",
+    "type1": "FAIRY",
+    "type2": "NULL",
+    "description": "幸福宝可梦。总是带着微笑，据说能够给周围的人带来好运。蛋形身体里面藏着温暖的心情。"
+  },
+  {
+    "id": "0445",
+    "name": "烈咬陆鲨",
+    "type1": "DRAGON",
+    "type2": "GROUND",
+    "description": "音速宝可梦。能以接近音速的速度飞行，被称为陆地上的喷气式战斗机。"
+  },
+  {
+    "id": "0722",
+    "name": "木木枭",
+    "type1": "GRASS",
+    "type2": "FLYING",
+    "description": "草羽宝可梦。白天通过光合作用积蓄能量，夜晚活动。性格沉稳，不易慌张。"
+  },
+  {
+    "id": "0906",
+    "name": "新叶喵",
+    "type1": "GRASS",
+    "type2": "NULL",
+    "description": "草猫宝可梦。性格任性又爱撒娇。能从前爪散发甜甜的香气，使对手放松警惕。"
+  },
+  { "id": "0039", "name": "胖丁", "type1": "NORMAL", "type2": "FAIRY", "description": "气球宝可梦。会用悦耳的歌声让对手进入睡眠状态。" },
+  { "id": "0094", "name": "耿鬼", "type1": "GHOST", "type2": "POISON", "description": "影子宝可梦。会隐藏在阴影中，悄悄接近目标。" },
+  { "id": "0186", "name": "牛蛙君", "type1": "WATER", "type2": "NULL", "description": "蛙宝可梦。头上的卷纹是王者的象征。" },
+  { "id": "0248", "name": "班基拉斯", "type1": "ROCK", "type2": "DARK", "description": "铠甲宝可梦。拥有能改变地形的强大力量。" },
+  { "id": "0282", "name": "沙奈朵", "type1": "PSYCHIC", "type2": "FAIRY", "description": "包容宝可梦。能够感知训练家的情绪。" },
+  { "id": "0306", "name": "波士可多拉", "type1": "STEEL", "type2": "ROCK", "description": "铠甲宝可梦。会守护自己的山头领地。" },
+  { "id": "0392", "name": "烈焰猴", "type1": "FIRE", "type2": "FIGHTING", "description": "火焰宝可梦。动作敏捷，擅长近身战斗。" },
+  { "id": "0448", "name": "路卡利欧", "type1": "FIGHTING", "type2": "STEEL", "description": "波导宝可梦。能读取对手的情绪和思想。" },
+  { "id": "0530", "name": "龙头地鼠", "type1": "GROUND", "type2": "STEEL", "description": "地底宝可梦。会在地下挖掘高速隧道。" },
+  { "id": "0635", "name": "三首恶龙", "type1": "DARK", "type2": "DRAGON", "description": "凶暴宝可梦。三颗头会互相争斗。" },
+  { "id": "0658", "name": "甲贺忍蛙", "type1": "WATER", "type2": "DARK", "description": "忍者宝可梦。动作迅速如同忍者一般。" },
+  { "id": "0700", "name": "仙子伊布", "type1": "FAIRY", "type2": "NULL", "description": "连结宝可梦。会用缎带般的触角表达情感。" },
+  { "id": "0727", "name": "炽焰咆哮虎", "type1": "FIRE", "type2": "DARK", "description": "反派宝可梦。擅长利用夸张表演震慑对手。" },
+  { "id": "0778", "name": "谜拟丘", "type1": "GHOST", "type2": "FAIRY", "description": "画皮宝可梦。披着布偶外衣隐藏真实样貌。" },
+  { "id": "0815", "name": "闪焰王牌", "type1": "FIRE", "type2": "NULL", "description": "前锋宝可梦。脚力惊人，擅长高速进攻。" },
+  { "id": "0887", "name": "多龙巴鲁托", "type1": "DRAGON", "type2": "GHOST", "description": "隐形宝可梦。速度极快，会发射幼体攻击。" },
+  { "id": "0937", "name": "红莲铠骑", "type1": "FIRE", "type2": "GHOST", "description": "火战士宝可梦。以强大火焰武器战斗。" },
+  { "id": "0959", "name": "轻身鳕", "type1": "ICE", "type2": "NULL", "description": "陆鳕宝可梦。拥有强大的下颚力量。" }
+]
